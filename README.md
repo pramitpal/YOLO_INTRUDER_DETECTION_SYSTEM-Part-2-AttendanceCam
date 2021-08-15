@@ -3,4 +3,4 @@
  Named as "AttendanceCam"
  This will run from a seperate camera.
  
-Contributed by Pramit Kumar Pal and Avik Chowdhury
+#Contributed by Pramit Kumar Pal and Avik Chowdhury.
